@@ -1,0 +1,19 @@
+{
+  "name": "callback-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreinen/callback-closure.git"
+  },
+  "author": "Scott Reinen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreinen/callback-closure/issues"
+  },
+  "homepage": "https://github.com/sreinen/callback-closure#readme"
+}
